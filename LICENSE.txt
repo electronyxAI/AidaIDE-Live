@@ -1,0 +1,155 @@
+AidaIDE Proprietary License Agreement
+Copyright (c) 2025 Wes Laing / Electronyx Incorporated. All Rights Reserved.
+
+================================================================================
+
+IMPORTANT: READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+
+By downloading, installing, copying, or otherwise using this software, you agree 
+to be bound by the terms of this license. If you do not agree to these terms, do 
+not use this software.
+
+================================================================================
+
+1. DEFINITIONS
+
+"Software" refers to AidaIDE, including all source code, object code, 
+documentation, and associated files.
+
+"Licensor" refers to Wes Laing / Electronyx Incorporated.
+
+"Licensee" refers to the individual or entity that has purchased a valid 
+subscription to use the Software.
+
+"Subscription" refers to a time-limited license to use the Software, subject to 
+payment of applicable fees.
+
+--------------------------------------------------------------------------------
+
+2. GRANT OF LICENSE
+
+Subject to the terms of this Agreement and payment of applicable subscription 
+fees, Licensor grants Licensee a limited, non-exclusive, non-transferable, 
+revocable license to:
+
+  a) Install and use the Software on devices owned or controlled by Licensee
+  b) Use the Software for personal or internal business purposes
+  c) Deploy Software agents ("AidaIDE Lite") to IoT devices owned or controlled 
+     by Licensee
+
+--------------------------------------------------------------------------------
+
+3. RESTRICTIONS
+
+Licensee shall NOT:
+
+  a) Copy, modify, adapt, translate, or create derivative works of the Software
+  b) Reverse engineer, disassemble, decompile, or attempt to derive the source 
+     code of the Software
+  c) Sell, resell, rent, lease, sublicense, or distribute the Software to any 
+     third party
+  d) Remove, alter, or obscure any proprietary notices on the Software
+  e) Use the Software to develop a competing product or service
+  f) Share subscription credentials or allow unauthorized users to access the 
+     Software
+  g) Use the Software after the subscription period has expired without renewal
+  h) Redistribute, publish, or make the Software publicly available in any form
+
+--------------------------------------------------------------------------------
+
+4. SUBSCRIPTION TERMS
+
+  a) The license to use the Software is valid only for the duration of an active 
+     subscription.
+  b) Upon expiration or termination of the subscription, Licensee must cease all 
+     use of the Software and delete all copies.
+  c) Subscription fees are non-refundable except as required by applicable law.
+  d) Licensor reserves the right to modify subscription pricing with 30 days 
+     notice before the next renewal period.
+
+--------------------------------------------------------------------------------
+
+5. INTELLECTUAL PROPERTY
+
+The Software is protected by copyright and other intellectual property laws. 
+Licensor retains all right, title, and interest in and to the Software, 
+including all intellectual property rights. This Agreement does not grant 
+Licensee any ownership rights to the Software.
+
+--------------------------------------------------------------------------------
+
+6. DATA AND PRIVACY
+
+  a) The Software may collect usage data and telemetry to improve the product.
+  b) Licensee data stored locally remains the property of Licensee.
+  c) Licensor will handle any personal data in accordance with its Privacy 
+     Policy.
+
+--------------------------------------------------------------------------------
+
+7. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, OR 
+UNINTERRUPTED.
+
+--------------------------------------------------------------------------------
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, 
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF 
+PROFITS, DATA, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR IN CONNECTION WITH 
+THIS AGREEMENT OR THE USE OF THE SOFTWARE.
+
+LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY LICENSEE FOR THE 
+SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+--------------------------------------------------------------------------------
+
+9. TERMINATION
+
+  a) This license is effective until terminated.
+  b) Licensor may terminate this license immediately if Licensee breaches any 
+     term of this Agreement.
+  c) Upon termination, Licensee must destroy all copies of the Software.
+  d) Sections 3, 5, 7, 8, and 10 shall survive termination.
+
+--------------------------------------------------------------------------------
+
+10. GENERAL PROVISIONS
+
+  a) Governing Law: This Agreement shall be governed by the laws of the State of 
+     Georgia, United States, without regard to conflict of law principles.
+  
+  b) Entire Agreement: This Agreement constitutes the entire agreement between 
+     the parties regarding the Software and supersedes all prior agreements.
+  
+  c) Severability: If any provision of this Agreement is held unenforceable, the 
+     remaining provisions shall continue in full force and effect.
+  
+  d) No Waiver: Failure to enforce any right under this Agreement shall not 
+     constitute a waiver of such right.
+  
+  e) Assignment: Licensee may not assign this Agreement without Licensor's prior 
+     written consent.
+
+--------------------------------------------------------------------------------
+
+11. CONTACT
+
+For questions regarding this license, contact:
+
+Electronyx Incorporated
+electronyxinc@gmail.com
+www.AidaIDE.com
+
+================================================================================
+
+By using AidaIDE, you acknowledge that you have read this Agreement, understand 
+it, and agree to be bound by its terms and conditions.
+
+================================================================================
